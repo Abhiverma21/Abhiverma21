@@ -2,15 +2,13 @@
 <h3 align="center">MERN Stack Developer | Building Real Products, Not Just Tutorials</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-verma1828/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:abhishekjbverma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://quick-talk-orpin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
