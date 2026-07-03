@@ -17,7 +17,10 @@
 
 ### 🧠 About Me
 
-I'm a final-year MCA student at **Kurukshetra University**, currently working as a **SuperCoder Intern at CodeQuotient**, sharpening MERN stack and DSA skills. I don't just build CRUD apps — I design real systems: multi-tenant architectures, role-based access control, real-time infrastructure, and production-ready auth flows.
+Full Stack Developer skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) with hands-on experience building and
+deploying scalable, responsive web applications. Proficient in RESTful API design, JWT authentication, third-party API
+integration, and role-based access control. Strong foundation in data structures and algorithms (Java). Seeking an entry-level
+MERN Stack Developer role to contribute clean, maintainable code in a fast-paced development team.
 
 - 🔭 Currently building **GMS** — a multi-gym SaaS platform (Admin + Member portals, WhatsApp automation, JWT + OTP auth, billing, analytics dashboards)
 - 💬 Comfortable across the full stack: **React, Node.js, Express, MongoDB, Socket.IO**
@@ -29,9 +32,6 @@ I'm a final-year MCA student at **Kurukshetra University**, currently working as
 
 ### 🚀 Featured Projects
 
-**[QuickTalk](https://quick-talk-orpin.vercel.app)** — Real-Time Chat Application
-Built with MERN + Socket.IO. Live messaging, online presence tracking, invitations, and notifications — deployed and fully functional.
-`React` `Node.js` `Socket.IO` `MongoDB`
 
 **GMS — Gym Management SaaS**
 Multi-tenant gym management platform for gym owners. Features JWT auth with OTP verification, role-based access control, WhatsApp automation, attendance & billing systems, and analytics dashboards. Designed for real-world commercial use across 12+ interconnected data models.
